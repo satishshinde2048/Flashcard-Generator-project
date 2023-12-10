@@ -2,7 +2,7 @@
 
 This is a Frontend Capstone project given by the Almabetter - Flashcard Generator.
 
-## Available Scripts
+## Deployment
 
 In the project directory, you can run:
 
