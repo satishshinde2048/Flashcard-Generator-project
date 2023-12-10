@@ -1,6 +1,6 @@
 # Flashcard-Generator-Project 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Frontend Capstone project given by the Almabetter - Flashcard Generator.
 
 ## Available Scripts
 
