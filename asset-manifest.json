@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Flashcard-Generator-Project/static/css/main.8baaef42.css",
+    "main.js": "/Flashcard-Generator-Project/static/js/main.53838504.js",
+    "static/js/703.a1391395.chunk.js": "/Flashcard-Generator-Project/static/js/703.a1391395.chunk.js",
+    "static/js/379.2ee06134.chunk.js": "/Flashcard-Generator-Project/static/js/379.2ee06134.chunk.js",
+    "static/media/bg.jpg": "/Flashcard-Generator-Project/static/media/bg.a13f3aa86a81912bfba1.jpg",
+    "static/media/flashcardimg.png": "/Flashcard-Generator-Project/static/media/flashcardimg.f516892eb6c2923a3417.png",
+    "index.html": "/Flashcard-Generator-Project/index.html",
+    "main.8baaef42.css.map": "/Flashcard-Generator-Project/static/css/main.8baaef42.css.map",
+    "main.53838504.js.map": "/Flashcard-Generator-Project/static/js/main.53838504.js.map",
+    "703.a1391395.chunk.js.map": "/Flashcard-Generator-Project/static/js/703.a1391395.chunk.js.map",
+    "379.2ee06134.chunk.js.map": "/Flashcard-Generator-Project/static/js/379.2ee06134.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8baaef42.css",
+    "static/js/main.53838504.js"
+  ]
+}
