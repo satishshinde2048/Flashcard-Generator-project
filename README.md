@@ -4,7 +4,7 @@ This is a Frontend Capstone project given by the Almabetter - Flashcard Generato
 
 ## Deployment
 
-In the project directory, you can run:
+[Click Here](https://facebook.github.io/create-react-app/docs/deployment) to see my flashcard generator website.
 
 ### `npm start`
 
