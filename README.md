@@ -21,15 +21,15 @@ Flashcard Generator App is a frontend application for creating and managing flas
 
 ### Features
 ● This application helps to create new flashcards and access created flashcards and Utilized React, React-Redux, and localStorage to manage data, React-router for routing, and Tailwind CSS for component development and responsive design.                                                                                                             
-● Features are following:                                                                                                         
- 1.Add More Input Box                                                                                                                                                                   
- 2.Delete Input Box                                                                                                           
- 3.Edit Input box                                                                                                                
- 4.Upload Image                                                                                                             
- 5.View cards                                                                                                               
- 6.Share                                                                                                                
- 7.Download                                                                                                                                                                           
- 8.Print
+● Features are following:                                                                                                                                                                                                                     
+   1.Add More Input Box                                                                                                                                                                   
+   2.Delete Input Box                                                                                                           
+   3.Edit Input box                                                                                                                
+   4.Upload Image                                                                                                             
+   5.View cards                                                                                                               
+   6.Share                                                                                                                
+   7.Download                                                                                                                                                                           
+   8.Print
 
 ### `npm test`
 
