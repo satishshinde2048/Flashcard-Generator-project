@@ -25,8 +25,8 @@
 
 ### `Features`
 
-    ● Implemented agile methodology for designing, analyzing, and developing the frontend project. The entire 
-     project  was planned out as a single sprint of 2 weeks.
+ ● Implemented agile methodology for designing, analyzing, and developing the frontend project. The entire 
+   project  was planned out as a single sprint of 2 weeks.
 
 ● This application helps to create new flashcards and access created flashcards.
 
