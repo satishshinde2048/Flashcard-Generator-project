@@ -42,8 +42,8 @@
 
 ### `Tech Stack`
 
- ●React js( React Router ),                                                                                                      
- ●Redux,                                                                                                                    
+     ●React js( React Router ),                                                                                                      
+     ●Redux,                                                                                                                    
  ●TailwindCSS,                                                                                                               
  ●React-icons,                                                                                                               
  ●React Formik & Yup,                                                                                                          
