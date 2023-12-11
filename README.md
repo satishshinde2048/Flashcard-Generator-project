@@ -42,7 +42,7 @@
 
 ### `Tech Stack`
 
-     ●React js( React Router ),
+     `●React js( React Router ),
      
      ●Redux,       
      
@@ -52,7 +52,7 @@
      
      ●React Formik & Yup,   
      
-     ●React-toastify,
+     ●React-toastify,`
      
 
 ### `Run Locally`
