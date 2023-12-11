@@ -49,7 +49,8 @@ Flashcard Generator App is a frontend application for creating and managing flas
 
 Clone the project:
 
-git clone https://github.com/mayuryalij/Flashcard-Generator-App.git                                                   
+git clone https://github.com/mayuryalij/Flashcard-Generator-App.git                                                        
+
 Navigate to the project directory:
 
 cd Flashcard-Generator-App                                                                                                  
