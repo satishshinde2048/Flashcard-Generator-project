@@ -8,11 +8,11 @@
  Flashcard Generator App is a frontend application for creating and managing flashcards. It allows users to 
   create multiple flashcards within a group. The application consists of three main pages:
 
-   "1.Create New Page:
+   1.Create New Page:
      This page enables users to create a new flashcard. It contains two forms: one for entering the name and 
      description of the flashcard, and another for adding 
      individual card names and descriptions. The dynamic form is implemented using Formik. After clicking the 
-     Create button, the flashcard will be created."
+     Create button, the flashcard will be created.
 
  2.My FlashCard Page:
    On this page, users can view all the created card groups. Each group is displayed with a heading, description, total number of cards in the group, and a button 
