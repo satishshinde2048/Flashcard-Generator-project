@@ -1,6 +1,7 @@
 # Flashcard-Generator-Project 
 
-[Click Here](https://satishshinde2048.github.io/Flashcard-Generator-project/) to see my flashcard generator website.
+  *[Click Here](https://satishshinde2048.github.io/Flashcard-Generator-project/) to see my flashcard generator 
+  website.
 
 ## Project Description
 
