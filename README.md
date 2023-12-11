@@ -53,7 +53,8 @@ git clone https://github.com/mayuryalij/Flashcard-Generator-App.git
 
 Navigate to the project directory:
 
-cd Flashcard-Generator-App                                                                                                  
+cd Flashcard-Generator-App                                                                                        
+                                                                                                       
 Install dependencies:                                                                                                    
 
 npm install                                                                                                               
