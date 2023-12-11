@@ -25,7 +25,7 @@
 
 ### `Features`
 
-   ● Implemented agile methodology for designing, analyzing, and developing the frontend project. The entire 
+ + Implemented agile methodology for designing, analyzing, and developing the frontend project. The entire 
     project  was planned out as a single sprint of 2 weeks.
 
 
