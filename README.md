@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# Flashcard-Generator-Project 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Click Here](https://satishshinde2048.github.io/Flashcard-Generator-project/) to see my flashcard generator website.
 
-## Available Scripts
+## Project Description
 
-In the project directory, you can run:
+ Flashcard Generator App is a frontend application for creating and managing flashcards. It allows users to create multiple flashcards within a group. The application consists of three main pages:
 
-### `npm start`
+ 1.Create New Page:
+   This page enables users to create a new flashcard. It contains two forms: one for entering the name and description of the flashcard, and another for adding 
+   individual card names and descriptions. The dynamic form is implemented using Formik. After clicking the Create button, the flashcard will be created.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ 2.My FlashCard Page:
+   On this page, users can view all the created card groups. Each group is displayed with a heading, description, total number of cards in the group, and a button 
+   for viewing the cards on the next page.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ 3.FlashCard Details Page:
+   This page allows users to view the created flashcards. Users can navigate between different flashcards by clicking on the sidebar terms associated with each 
+   card group. Additionally, they can share, print, and download the flashcards.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Features
 
-### `npm run build`
+ ● Implemented agile methodology for designing, analyzing, and developing the frontend project. The entire project 
+   was planned out as a single sprint of 2 weeks.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+● This application helps to create new flashcards and access created flashcards.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+● Utilized React, React-Redux, and localStorage to manage data, React-router for routing, and Tailwind CSS for 
+  component development and responsive design.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+● Improved the project’s efficiency by implementing validation using Formik.js on all the existing input fields, 
+  and extensive testing was carried out
 
-### `npm run eject`
+### Authors
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ ● @Satish Vilas Shinde
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Tech Stack
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ ●React js( React Router ),                                                                                                      
+ ●Redux,                                                                                                                    
+ ●TailwindCSS,                                                                                                               
+ ●React-icons,                                                                                                               
+ ●React Formik & Yup,                                                                                                          
+ ●React-toastify,
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Run Locally
 
-## Learn More
+●Clone the project:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+git clone https://github.com/mayuryalij/Flashcard-Generator-App.git                                                        
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+●Navigate to the project directory:
 
-### Code Splitting
+cd Flashcard-Generator-App                                                                                        
+                                                                                                       
+●Install dependencies:                                                                                                    
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+npm install                                                                                                       
+                                                                                                                        
+●Start the server:                                                                                                           
 
-### Analyzing the Bundle Size
+npm run start                                                                                                           
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## How To Use
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+1.Open the flashcard generator Click Here
 
-### Advanced Configuration
+2.Fill up all the input boxes without any Errors and click on the "Create" button.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+3.For viewing recently created flashcards click on the "My flashcard" link this will show all flashcards you created recently.
+
+4.For the Viewing Details of the flashcard click on the "view card" button it will redirect you to the flashcard details page where you take a look at your flashcard details.
+
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This project is live at: [https://satishshinde2048.github.io/Flashcard-Generator-project/](https://satishshinde2048.github.io/Flashcard-Generator-project/)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
