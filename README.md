@@ -44,10 +44,10 @@
 
      ●React js( React Router ),                                                                                                      
      ●Redux,                                                                                                                    
- ●TailwindCSS,                                                                                                               
- ●React-icons,                                                                                                               
- ●React Formik & Yup,                                                                                                          
- ●React-toastify,
+     ●TailwindCSS,                                                                                                               
+     ●React-icons,                                                                                                               
+     ●React Formik & Yup,                                                                                                          
+     ●React-toastify,
 
 ### `Run Locally`
 
