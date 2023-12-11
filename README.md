@@ -49,16 +49,16 @@ Flashcard Generator App is a frontend application for creating and managing flas
 
 Clone the project:
 
-git clone https://github.com/mayuryalij/Flashcard-Generator-App.git
+git clone https://github.com/mayuryalij/Flashcard-Generator-App.git                                                   
 Navigate to the project directory:
 
-cd Flashcard-Generator-App
-Install dependencies:
+cd Flashcard-Generator-App                                                                                                  
+Install dependencies:                                                                                                    
 
-npm install
-Start the server:
+npm install                                                                                                               
+Start the server:                                                                                                           
 
-npm run start
+npm run start                                                                                                           
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
