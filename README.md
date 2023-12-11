@@ -14,12 +14,14 @@ Flashcard Generator App is a frontend application for creating and managing flas
      individual card names and descriptions. The dynamic form is implemented using Formik. After clicking the 
      Create button, the flashcard will be created.
 
- 1. My FlashCard Page:
-   On this page, users can view all the created card groups. Each group is displayed with a heading, description, total number of cards in the group, and a button 
+  1. My FlashCard Page:
+   On this page, users can view all the created card groups. Each group is displayed with a heading, description, 
+   total number of cards in the group, and a button 
    for viewing the cards on the next page.
 
- 1. FlashCard Details Page:
-   This page allows users to view the created flashcards. Users can navigate between different flashcards by clicking on the sidebar terms associated with each 
+  1. FlashCard Details Page:
+   This page allows users to view the created flashcards. Users can navigate between different flashcards by 
+   clicking on the sidebar terms associated with each 
    card group. Additionally, they can share, print, and download the flashcards.
 
 
@@ -42,52 +44,52 @@ Flashcard Generator App is a frontend application for creating and managing flas
 
 ### `Authors`
 
- ● @Satish Vilas Shinde
+ + @Satish Vilas Shinde
 
 ### `Tech Stack`
 
-     ●React js( React Router ),
++ React js( React Router ),
      
-     ●Redux,       
++ Redux,       
      
-     ●TailwindCSS,  
++ TailwindCSS,  
      
-     ●React-icons,  
++ React-icons,  
      
-     ●React Formik & Yup,   
++ React Formik & Yup,   
      
-     ●React-toastify,
++ React-toastify,
      
 
 ### `Run Locally`
 
-●Clone the project:
++ Clone the project:
 
     git clone https://github.com/satishshinde2048/Flashcard-Generator-project.git  
 
 
-●Navigate to the project directory:
++ Navigate to the project directory:
 
      cd Flashcard-Generator-project
                                                                                                        
-●Install dependencies:                                                                                                    
++ Install dependencies:                                                                                                    
 
      npm install 
                                                                                                                                                                                                                 
-●Start the server:                                                                                                        
++ Start the server:                                                                                                        
 
      npm start       
       
 
 ## `How To Use`
 
-1.Open the flashcard generator Click Here
+1. Open the flashcard generator Click Here
 
-2.Fill up all the input boxes without any Errors and click on the "Create" button.
+1. Fill up all the input boxes without any Errors and click on the "Create" button.
 
-3.For viewing recently created flashcards click on the "My flashcard" link this will show all flashcards you created recently.
+1. For viewing recently created flashcards click on the "My flashcard" link this will show all flashcards you created recently.
 
-4.For the Viewing Details of the flashcard click on the "view card" button it will redirect you to the flashcard details page where you take a look at your flashcard details.
+1. For the Viewing Details of the flashcard click on the "view card" button it will redirect you to the flashcard details page where you take a look at your flashcard details.
 
 
 ### `Deployment`
