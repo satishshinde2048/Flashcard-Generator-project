@@ -63,19 +63,16 @@ npm install
 
 npm run start                                                                                                           
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## How To Use
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1.Open the flashcard generator Click Here
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2.Fill up all the input boxes without any Errors and click on the "Create" button.
 
-## Learn More
+3.For viewing recently created flashcards click on the "My flashcard" link this will show all flashcards you created recently.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+4.For the Viewing Details of the flashcard click on the "view card" button it will redirect you to the flashcard details page where you take a look at your flashcard details.
 
 ### Code Splitting
 
