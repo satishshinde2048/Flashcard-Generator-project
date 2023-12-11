@@ -25,16 +25,20 @@
 
 ### `Features`
 
- ● Implemented agile methodology for designing, analyzing, and developing the frontend project. The entire 
-   project  was planned out as a single sprint of 2 weeks.
+   ● Implemented agile methodology for designing, analyzing, and developing the frontend project. The entire 
+    project  was planned out as a single sprint of 2 weeks.
 
-● This application helps to create new flashcards and access created flashcards.
 
-● Utilized React, React-Redux, and localStorage to manage data, React-router for routing, and Tailwind CSS for 
-  component development and responsive design.
+  ● This application helps to create new flashcards and access created flashcards.
 
-● Improved the project’s efficiency by implementing validation using Formik.js on all the existing input fields, 
-  and extensive testing was carried out
+ 
+  ● Utilized React, React-Redux, and localStorage to manage data, React-router for routing, and Tailwind CSS for 
+   component development and responsive design.
+
+ 
+  ● Improved the project’s efficiency by implementing validation using Formik.js on all the existing input fields, 
+   and extensive testing was carried out
+   
 
 ### `Authors`
 
