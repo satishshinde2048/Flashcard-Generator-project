@@ -65,20 +65,20 @@ Flashcard Generator App is a frontend application for creating and managing flas
 
 + Clone the project:
 
-    git clone https://github.com/satishshinde2048/Flashcard-Generator-project.git  
+      git clone https://github.com/satishshinde2048/Flashcard-Generator-project.git  
 
 
 + Navigate to the project directory:
 
-     cd Flashcard-Generator-project
+      cd Flashcard-Generator-project
                                                                                                        
 + Install dependencies:                                                                                                    
 
-     npm install 
+       npm install 
                                                                                                                                                                                                                 
 + Start the server:                                                                                                        
 
-     npm start       
+       npm start       
       
 
 ## `How To Use`
