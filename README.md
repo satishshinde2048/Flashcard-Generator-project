@@ -49,7 +49,7 @@
 
 ●Clone the project:
 
-git clone https://github.com/mayuryalij/Flashcard-Generator-App.git                                                        
+git clone https://github.com/satishshinde2048/Flashcard-Generator-project.git                                                   
 
 ●Navigate to the project directory:
 
