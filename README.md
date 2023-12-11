@@ -1,10 +1,10 @@
-# Flashcard-Generator-Project 
-
-This is a Frontend Capstone project given by the Almabetter - Flashcard Generator.
-
-## Deployment
+# Flashcard-Generator-App-Project 
 
 [Click Here](https://facebook.github.io/create-react-app/docs/deployment) to see my flashcard generator website.
+
+## Project Description
+
+
 
 ### `npm start`
 
