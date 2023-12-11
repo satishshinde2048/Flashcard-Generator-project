@@ -1,6 +1,6 @@
 # Flashcard-Generator-Project 
 
-[Click Here](https://satishshinde2048.github.io/Flashcard-Generator-project/) to see my flashcard generator website.
+[Click Here](https://satishshinde2048.github.io/) to see my flashcard generator website.
 
 ## Project Description
 
@@ -77,5 +77,5 @@ npm run start
 
 ### Deployment
 
-This project is live at: [https://satishshinde2048.github.io/Flashcard-Generator-project/](https://satishshinde2048.github.io/Flashcard-Generator-project/)
+This project is live at: [https://satishshinde2048.github.io/Flashcard-Generator-project/](https://satishshinde2048.github.io/)
 
