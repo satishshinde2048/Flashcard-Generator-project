@@ -19,15 +19,21 @@ Flashcard Generator App is a frontend application for creating and managing flas
    card group. Additionally, they can share, print, and download the flashcards.
 
 
-### features
+### Features
 
- 1.Add More Input Box
+ 1.Add More Input Box                                                                                                                                                                   
  2.Delete Input Box
+ 
  3.Edit Input box
+ 
  4.Upload Image
+ 
  5.View cards
+ 
  6.Share
+ 
  7.Download
+ 
  8.Print
 
 ### `npm test`
