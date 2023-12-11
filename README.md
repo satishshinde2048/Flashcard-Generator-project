@@ -1,4 +1,4 @@
-# Flashcard-Generator-App-Project 
+# Flashcard-Generator-Project 
 
 [Click Here](https://facebook.github.io/create-react-app/docs/deployment) to see my flashcard generator website.
 
@@ -19,13 +19,16 @@ Flashcard Generator App is a frontend application for creating and managing flas
    card group. Additionally, they can share, print, and download the flashcards.
 
 
-### `npm start`
+### features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ 1.Add More Input Box
+ 2.Delete Input Box
+ 3.Edit Input box
+ 4.Upload Image
+ 5.View cards
+ 6.Share
+ 7.Download
+ 8.Print
 
 ### `npm test`
 
