@@ -20,7 +20,7 @@ Flashcard Generator App is a frontend application for creating and managing flas
    card group. Additionally, they can share, print, and download the flashcards.
 
 
-### Features
+### `Features`
 
  ● Implemented agile methodology for designing, analyzing, and developing the frontend project. The entire project 
    was planned out as a single sprint of 2 weeks.
@@ -33,11 +33,11 @@ Flashcard Generator App is a frontend application for creating and managing flas
 ● Improved the project’s efficiency by implementing validation using Formik.js on all the existing input fields, 
   and extensive testing was carried out
 
-### Authors
+### `Authors`
 
  ● @Satish Vilas Shinde
 
-### Tech Stack
+### `Tech Stack`
 
  ●React js( React Router ),                                                                                                      
  ●Redux,                                                                                                                    
@@ -46,7 +46,7 @@ Flashcard Generator App is a frontend application for creating and managing flas
  ●React Formik & Yup,                                                                                                          
  ●React-toastify,
 
-### Run Locally
+### `Run Locally`
 
 ●Clone the project:
 
@@ -66,7 +66,7 @@ Flashcard Generator App is a frontend application for creating and managing flas
      npm start       
       
 
-## How To Use
+## `How To Use`
 
 1.Open the flashcard generator Click Here
 
@@ -77,7 +77,7 @@ Flashcard Generator App is a frontend application for creating and managing flas
 4.For the Viewing Details of the flashcard click on the "view card" button it will redirect you to the flashcard details page where you take a look at your flashcard details.
 
 
-### Deployment
+### `Deployment`
 
 This project is live at: [https://satishshinde2048.github.io/Flashcard-Generator-project/](https://satishshinde2048.github.io/Flashcard-Generator-project/)
 
