@@ -57,7 +57,8 @@ cd Flashcard-Generator-App
                                                                                                        
 Install dependencies:                                                                                                    
 
-npm install                                                                                                               
+npm install                                                                                                       
+                                                                                                                        
 Start the server:                                                                                                           
 
 npm run start                                                                                                           
