@@ -45,7 +45,20 @@ Flashcard Generator App is a frontend application for creating and managing flas
  ●React Formik & Yup,                                                                                                          
  ●React-toastify,
 
-### Run Locally:
+### Run Locally
+
+Clone the project:
+
+git clone https://github.com/mayuryalij/Flashcard-Generator-App.git
+Navigate to the project directory:
+
+cd Flashcard-Generator-App
+Install dependencies:
+
+npm install
+Start the server:
+
+npm run start
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
