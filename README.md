@@ -5,7 +5,7 @@
 
 ## `Project Description`
 
- Flashcard Generator App is a frontend application for creating and managing flashcards. It allows users to 
+ + Flashcard Generator App is a frontend application for creating and managing flashcards. It allows users to 
   create multiple flashcards within a group. The application consists of three main pages:
 
   1. Create New Page:
