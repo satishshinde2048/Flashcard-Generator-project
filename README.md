@@ -32,10 +32,9 @@ Flashcard Generator App is a frontend application for creating and managing flas
 ● Improved the project’s efficiency by implementing validation using Formik.js on all the existing input fields, 
   and extensive testing was carried out
 
-### `npm test`
+### Authors
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ ● @Satish Vilas Shinde
 
 ### `npm run build`
 
