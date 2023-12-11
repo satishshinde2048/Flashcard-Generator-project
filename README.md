@@ -45,7 +45,7 @@ Flashcard Generator App is a frontend application for creating and managing flas
  ●React Formik & Yup,                                                                                                          
  ●React-toastify,
 
-### `npm run eject`
+### Run Locally
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
