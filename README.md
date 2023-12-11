@@ -3,7 +3,7 @@
   [Click Here](https://satishshinde2048.github.io/Flashcard-Generator-project/) to see my flashcard generator 
   website.
 
-## Project Description
+## 'Project Description'
 
 Flashcard Generator App is a frontend application for creating and managing flashcards. It allows users to create multiple flashcards within a group. The application consists of three main pages:
 
