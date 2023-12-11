@@ -53,7 +53,7 @@ git clone https://github.com/satishshinde2048/Flashcard-Generator-project.git
 
 ●Navigate to the project directory:
 
-cd Flashcard-Generator-App                                                                                        
+cd Flashcard-Generator-project
                                                                                                        
 ●Install dependencies:                                                                                                    
 
