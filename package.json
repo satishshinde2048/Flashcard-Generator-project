@@ -1,7 +1,7 @@
 {
   "name": "flashcard-generator",
   "version": "0.1.0",
-  "homepage": "https://satishshinde2048.github.io",
+  "homepage": "https://satishshinde2048.github.io/Flashcard-Generator-project",
   "private": true,
   "dependencies": {
     "@material-tailwind/react": "^2.1.5",
