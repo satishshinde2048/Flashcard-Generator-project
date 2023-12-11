@@ -62,7 +62,7 @@ git clone https://github.com/satishshinde2048/Flashcard-Generator-project.git
                                                                                                                         
 ●Start the server:                                                                                                           
 
-npm run start                                                                                                           
+  npm run start                                                                                                           
 
 
 ## How To Use
