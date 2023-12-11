@@ -88,5 +88,5 @@
 
 ### `Deployment`
 
-This project is live at: [https://satishshinde2048.github.io/Flashcard-Generator-project/] 
-  (https://satishshinde2048.github.io/Flashcard-Generator-project/)
+This project is live at: [https://satishshinde2048.github.io/Flashcard-Generator-project/](https://satishshinde2048.github.io/Flashcard-Generator-project/)
+
