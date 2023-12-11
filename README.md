@@ -50,7 +50,7 @@
 
 ●Clone the project:
 
-git clone https://github.com/satishshinde2048/Flashcard-Generator-project.git                                                   
+     git clone https://github.com/satishshinde2048/Flashcard-Generator-project.git                                                   
 
 ●Navigate to the project directory:
 
@@ -60,10 +60,10 @@ git clone https://github.com/satishshinde2048/Flashcard-Generator-project.git
 
      npm install 
                                                                                                                                                                                                                 
-●Start the server:                                                                                                           
+●Start the server:                                                                                                        
 
-      npm start                                                                                                           
-
+     npm start       
+      
 
 ## How To Use
 
